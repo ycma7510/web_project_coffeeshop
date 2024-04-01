@@ -7,6 +7,7 @@
 @import url("../blocks/form.css");
 @import url("../blocks/menu.css");
 @import url("../blocks/card.css")
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -281,5 +282,4 @@
 .form__label_el_checkbox-text {
   display: flex;
   justify-content: center;
-}
-*/
+}*/
